@@ -1,0 +1,31 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "pale_jack_o_lantern",
+    "unlockingItems": [
+      "CUSTOM:CarvedPalePumpkinBlock"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "",
+      "",
+      "",
+      "",
+      "CUSTOM:CarvedPalePumpkinBlock",
+      "",
+      "",
+      "TAG:minecraft:copper_torch",
+      ""
+    ],
+    "recipeReturnStack": "CUSTOM:CopperPaleJackOLanternBlock",
+    "name": "copper_pale_jack_o_lantern",
+    "namespace": "mod"
+  }
+}

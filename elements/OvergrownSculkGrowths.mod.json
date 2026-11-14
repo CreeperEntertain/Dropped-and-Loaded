@@ -1,0 +1,101 @@
+{
+  "_fv": 89,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "overgrown_sculk_growths_top",
+    "textureBottom": "overgrown_sculk_growths_bottom",
+    "customModelName": "Cross model",
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "double",
+    "suspiciousStewDuration": 0,
+    "secondaryTreeChance": 0.1,
+    "trees": [
+      null,
+      null
+    ],
+    "flowerTrees": [
+      null,
+      null
+    ],
+    "megaTrees": [
+      null,
+      null
+    ],
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": true,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 15.0,
+        "My": 16.0,
+        "Mz": 15.0,
+        "subtract": false
+      }
+    ],
+    "name": "Overgrown Sculk Growths",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      "DECORATIONS",
+      "CUSTOM:DroppedAndLoadedTab"
+    ],
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isWaterloggable": false,
+    "hasBlockItem": true,
+    "maxStackSize": 64,
+    "rarity": "COMMON",
+    "immuneToFire": false,
+    "soundOnStep": "SCULK_VEIN",
+    "isCustomSoundType": false,
+    "breakSound": "",
+    "stepSound": "",
+    "placeSound": "",
+    "hitSound": "",
+    "fallSound": "",
+    "useLootTableForDrops": true,
+    "customDrop": "",
+    "dropAmount": 1,
+    "xpAmountMin": 0,
+    "xpAmountMax": 0,
+    "forceTicking": true,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": "",
+    "offsetType": "XZ",
+    "aiPathNodeType": "OPEN",
+    "strippingResult": "",
+    "ignitedByLava": false,
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 0.6,
+    "speedFactor": 0.6,
+    "canBePlacedOn": [
+      "Blocks.SCULK",
+      "CUSTOM:PutridOsseousBlock"
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 7,
+    "generateFeature": false,
+    "restrictionBiomes": [
+      "minecraft:deep_dark"
+    ],
+    "generationType": "Grass",
+    "patchSize": 96,
+    "generateAtAnyHeight": false
+  }
+}
