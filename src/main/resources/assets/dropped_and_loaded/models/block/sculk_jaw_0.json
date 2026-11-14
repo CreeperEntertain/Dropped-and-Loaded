@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dropped_and_loaded:block/sculk_maw_bottom",
+    "up": "dropped_and_loaded:block/sculk_maw",
+    "north": "dropped_and_loaded:block/sculk_maw_side",
+    "east": "dropped_and_loaded:block/sculk_maw_bottom",
+    "south": "dropped_and_loaded:block/sculk_maw_bottom",
+    "west": "dropped_and_loaded:block/sculk_maw_bottom",
+    "particle": "dropped_and_loaded:block/sculk_maw_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dropped_and_loaded:block/putrid_osseous_block_top",
+    "up": "dropped_and_loaded:block/putrid_osseous_block_top",
+    "north": "dropped_and_loaded:block/putrid_osseous_block_side",
+    "east": "dropped_and_loaded:block/putrid_osseous_block_side",
+    "south": "dropped_and_loaded:block/putrid_osseous_block_side",
+    "west": "dropped_and_loaded:block/putrid_osseous_block_side",
+    "particle": "dropped_and_loaded:block/putrid_osseous_block_top"
+  },
+  "render_type": "solid"
+}

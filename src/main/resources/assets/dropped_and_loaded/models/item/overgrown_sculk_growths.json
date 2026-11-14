@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dropped_and_loaded:block/overgrown_sculk_growths_top"
+  }
+}

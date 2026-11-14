@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "dropped_and_loaded:block/mourning_iris"
+    },
+    "half=lower": {
+      "model": "dropped_and_loaded:block/mourning_iris_bottom"
+    }
+  }
+}

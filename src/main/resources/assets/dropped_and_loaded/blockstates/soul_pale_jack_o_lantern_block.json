@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dropped_and_loaded:block/soul_pale_jack_o_lantern_block"
+    },
+    "facing=east": {
+      "model": "dropped_and_loaded:block/soul_pale_jack_o_lantern_block",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dropped_and_loaded:block/soul_pale_jack_o_lantern_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dropped_and_loaded:block/soul_pale_jack_o_lantern_block",
+      "y": 270
+    }
+  }
+}

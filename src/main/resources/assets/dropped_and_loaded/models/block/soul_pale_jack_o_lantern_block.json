@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dropped_and_loaded:block/pale_pumpkin_top",
+    "up": "dropped_and_loaded:block/pale_pumpkin_top",
+    "north": "dropped_and_loaded:block/soul_pale_jack_o_lantern",
+    "east": "dropped_and_loaded:block/pale_pumpkin_side",
+    "south": "dropped_and_loaded:block/pale_pumpkin_side",
+    "west": "dropped_and_loaded:block/pale_pumpkin_side",
+    "particle": "dropped_and_loaded:block/pale_pumpkin_top"
+  },
+  "render_type": "solid"
+}

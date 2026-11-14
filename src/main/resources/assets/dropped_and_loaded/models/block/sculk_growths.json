@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "dropped_and_loaded:block/sculk_growths",
+    "particle": "dropped_and_loaded:block/sculk_growths"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dropped_and_loaded:block/resin_block_slab"
+    },
+    "type=top": {
+      "model": "dropped_and_loaded:block/resin_block_slab_top"
+    },
+    "type=double": {
+      "model": "dropped_and_loaded:block/resin_block_slab_full"
+    }
+  }
+}

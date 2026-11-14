@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dropped_and_loaded:block/sculk_growths"
+    }
+  }
+}

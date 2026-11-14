@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "activated=false": {
+      "model": "dropped_and_loaded:block/sculk_jaw_0"
+    },
+    "activated=true": {
+      "model": "dropped_and_loaded:block/sculk_jaw_1"
+    }
+  }
+}

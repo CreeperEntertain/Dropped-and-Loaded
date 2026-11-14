@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "dropped_and_loaded:block/overgrown_sculk_growths"
+    },
+    "half=lower": {
+      "model": "dropped_and_loaded:block/overgrown_sculk_growths_bottom"
+    }
+  }
+}
