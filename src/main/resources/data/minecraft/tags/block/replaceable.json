@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dropped_and_loaded:resin_block_wall",
+    "dropped_and_loaded:sculk_growths",
+    "dropped_and_loaded:resin_block_slab",
+    "dropped_and_loaded:overgrown_sculk_growths",
+    "dropped_and_loaded:resin_block_stairs"
+  ]
+}

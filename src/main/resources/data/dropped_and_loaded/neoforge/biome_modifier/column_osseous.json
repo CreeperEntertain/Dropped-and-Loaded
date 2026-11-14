@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:deep_dark",
+  "features": [
+    "dropped_and_loaded:osseous_columns_placed",
+    "dropped_and_loaded:ceiling_osseous_placed"
+  ],
+  "step": "underground_decoration"
+}

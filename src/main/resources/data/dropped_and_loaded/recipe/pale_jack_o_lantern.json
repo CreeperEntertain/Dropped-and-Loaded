@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pale_jack_o_lantern",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "dropped_and_loaded:carved_pale_pumpkin_block"
+    },
+    "b": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "id": "dropped_and_loaded:pale_jack_o_lantern_block",
+    "count": 1
+  }
+}

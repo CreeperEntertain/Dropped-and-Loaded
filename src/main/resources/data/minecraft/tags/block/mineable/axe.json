@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dropped_and_loaded:soul_pale_jack_o_lantern_block",
+    "dropped_and_loaded:pale_jack_o_lantern_block",
+    "dropped_and_loaded:carved_pale_pumpkin_block",
+    "dropped_and_loaded:copper_pale_jack_o_lantern_block",
+    "dropped_and_loaded:pale_pumpkin_block"
+  ]
+}

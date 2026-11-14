@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dropped_and_loaded:blocks/mourning_iris",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dropped_and_loaded:mourning_iris",
+          "conditions": [
+            {
+              "block": "dropped_and_loaded:mourning_iris",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "resin",
+  "category": "building",
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:resin_block"
+    }
+  },
+  "result": {
+    "id": "dropped_and_loaded:resin_block_stairs",
+    "count": 4
+  }
+}

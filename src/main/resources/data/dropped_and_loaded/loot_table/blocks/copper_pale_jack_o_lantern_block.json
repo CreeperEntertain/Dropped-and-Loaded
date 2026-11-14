@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dropped_and_loaded:blocks/copper_pale_jack_o_lantern_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dropped_and_loaded:copper_pale_jack_o_lantern_block"
+        }
+      ]
+    }
+  ]
+}

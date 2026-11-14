@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "dropped_and_loaded:deep_dark_columns/osseous_placed",
+    "features": [
+      {
+        "chance": 0.20,
+        "feature": "dropped_and_loaded:deep_dark_columns/sensor_osseous_placed"
+      },
+      {
+        "chance": 0.25,
+        "feature": "dropped_and_loaded:deep_dark_columns/catalyst_osseous_placed"
+      },
+      {
+        "chance": 0.14,
+        "feature": "dropped_and_loaded:deep_dark_columns/shrieker_osseous_placed"
+      }
+    ]
+  }
+}

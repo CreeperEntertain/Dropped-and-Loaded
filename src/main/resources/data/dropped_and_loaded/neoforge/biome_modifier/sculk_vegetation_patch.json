@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:deep_dark",
+  "features": [
+    "dropped_and_loaded:sculk_vegetation_patch",
+    "dropped_and_loaded:tall_sculk_vegetation_patch"
+  ],
+  "step": "vegetal_decoration"
+}
